@@ -1,0 +1,3 @@
+---
+hostname: 'ImovelGen'
+fqdn: '{{ hostname }}.localhost'

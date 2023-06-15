@@ -1,0 +1,19 @@
+{
+  "portal": [
+    {
+      "email": "jenaroaaugusto@outlook.com",
+      "properties": {
+        "fullname": "ImovelGen",
+        "location": "World"
+      },
+      "groups": [
+      ],
+      "roles": [
+        "Member"
+      ],
+      "username": "ImovelGen"
+    }
+  ],
+    "team": [
+  ]
+}
